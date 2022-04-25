@@ -12,7 +12,7 @@ I can design and develop top-notch web applications from scratch. I have hands-o
 * 🚀  I'm currently working on [My Portfolio](http://yashsharma.live)
 * 🧠  I'm learning Next.js, Angular.js and Never-ending Advanced Javascript.
 * 🤝  I'm open to collaborating on Machine Learning, Data Science and Web Dev Projects.
-* ⚡  Shh!!! ... I'm Master of all Trades
+* ⚡  Shh!!! ... I'm Master of all Trades.
 
 ### Skills
 
