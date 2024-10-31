@@ -7,12 +7,10 @@ Designer, Developer and ML Enthusiast
 I can design and develop top-notch web applications from scratch. I have hands-on experience with MERN stack and dot NET development.
 
 * 🌍  I'm based in Delhi, India.
-* 🖥️  See my portfolio at [GonnaMakeThePortfolioSoon](http://linktr.ee/theyashsharma)
+* 🖥️  See my works at [LinkTree](http://linktr.ee/theyashsharma)
 * ✉️  You can contact me at [yashqwer56@gmail.com](mailto:yashqwer56@gmail.com)
-* 🚀  I'm currently working on [My Portfolio](http://yashsharma.live)
-* 🧠  I'm learning Next.js, Angular.js and Never-ending Advanced Javascript.
+* 🧠  Advancing in TypeScript Next.js, Angular.js and Never-ending Advanced Javascript.
 * 🤝  I'm open to collaborating on Machine Learning, Data Science and Web Dev Projects.
-* ⚡  Shh!!! ... I'm Master of all Trades.
 
 ### Skills
 
